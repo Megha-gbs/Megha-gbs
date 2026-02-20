@@ -1,7 +1,5 @@
 <h1 align="center">
-  Hi 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/>
-  I'm Meghana Guthi
+  Hi 👋 I'm Meghana Guthi
 </h1>
 
 <h3 align="center">💜 Passionate about Full Stack Development & Real-World Problem Solving</h3>
@@ -9,8 +7,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=megha-gbs&label=Profile%20views&color=8A2BE2&style=flat" />
 </p>
-
-<br/>
 
 ---
 
@@ -22,31 +18,35 @@
 - 📫 Reach me at **meghanaguthi0303@gmail.com**
 - ⚡ Fun fact: *I love turning real-world problems into tech solutions*
 
-<br/>
-
 ---
 
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/meghana-guthi">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  <a href="https://www.linkedin.com/in/meghana-guthi/" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/linkedin.png" width="40"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com/meghss.s">
-    <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
+  <a href="https://www.instagram.com/meghss.s/" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/instagram-new.png" width="40"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://leetcode.com/u/megha_gbs/">
-    <img src="https://skillicons.dev/icons?i=leetcode" height="40"/>
+  <a href="https://leetcode.com/u/megha_gbs/" target="_blank">
+    <img src="https://img.icons8.com/external-tal-revivo-bold-tal-revivo/48/ffffff/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-bold-tal-revivo.png" width="40"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.codechef.com/users/megha_gbs">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/codechef.svg" height="40" style="filter: invert(1);"/>
+  <a href="https://www.codechef.com/users/megha_gbs" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/code.png" width="40"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://codeforces.com/profile/meghana_gbs" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/source-code.png" width="40"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.hackerrank.com/meghana_guthi" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/h.png" width="40"/>
   </a>
 </p>
-
-<br/>
 
 ---
 
@@ -55,8 +55,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,html,css,js,mysql,python,git,cpp,c,arduino&perline=6" />
 </p>
-
-<br/>
 
 ---
 
@@ -69,8 +67,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=megha-gbs&layout=compact&theme=midnight-purple&hide_border=true" height="150"/>
 </p>
-
-<br/>
 
 ---
 
