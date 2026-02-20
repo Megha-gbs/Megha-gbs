@@ -1,6 +1,4 @@
-<h1 align="center">
-  Hi 👋 I'm Meghana Guthi
-</h1>
+<h1 align="center">Hi 👋 I'm Meghana Guthi</h1>
 
 <h3 align="center">💜 Passionate about Full Stack Development & Real-World Problem Solving</h3>
 
@@ -32,19 +30,11 @@
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://leetcode.com/u/megha_gbs/" target="_blank">
-    <img src="https://img.icons8.com/external-tal-revivo-bold-tal-revivo/48/ffffff/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-bold-tal-revivo.png" width="40"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.codechef.com/users/megha_gbs" target="_blank">
     <img src="https://img.icons8.com/ios-filled/50/ffffff/code.png" width="40"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://codeforces.com/profile/meghana_gbs" target="_blank">
+  <a href="https://www.codechef.com/users/megha_gbs" target="_blank">
     <img src="https://img.icons8.com/ios-filled/50/ffffff/source-code.png" width="40"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.hackerrank.com/meghana_guthi" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/ffffff/h.png" width="40"/>
   </a>
 </p>
 
@@ -58,20 +48,8 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=megha-gbs&show_icons=true&theme=midnight-purple&hide_border=true" height="170"/>
-</p>
+You can view my complete GitHub contributions and activity directly here:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=megha-gbs&layout=compact&theme=midnight-purple&hide_border=true" height="150"/>
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=megha-gbs&theme=midnight-purple&hide_border=true"/>
-</p>
+👉 https://github.com/megha-gbs
