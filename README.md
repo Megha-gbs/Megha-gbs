@@ -6,16 +6,8 @@
 
 <h3 align="center">Passionate about Full Stack Development & Real-World Problem Solving</h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=megha-gbs&label=Profile%20views&color=7B2CBF&style=flat" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=megha-gbs&theme=discord&no-frame=true&row=1&column=6" />
+  <img src="https://komarev.com/ghpvc/?username=megha-gbs&label=Profile%20views&color=7B2CBF&style=flat" />
 </p>
 
 ---
@@ -32,7 +24,7 @@
 
 ## 🤝 Connect With Me
 
-<p align="left">
+<p align="center">
 
 <a href="https://linkedin.com/in/meghana-guthi" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30"/>
@@ -73,8 +65,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=megha-gbs&show_icons=true&theme=midnight-purple" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=megha-gbs&layout=compact&theme=midnight-purple" height="165"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=megha-gbs&show_icons=true&theme=midnight-purple" height="165"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=megha-gbs&layout=compact&theme=midnight-purple" height="165"/>
 </p>
 
 ---
