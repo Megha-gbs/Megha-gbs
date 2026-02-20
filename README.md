@@ -12,6 +12,14 @@
 
 ---
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=megha-gbs&theme=algolia&no-frame=true&margin-w=10&row=1" />
+</p>
+
+---
+
 ## 🚀 About Me
 
 - 🔭 Working on **Real-world applications & Full Stack projects**
