@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7B2CBF&height=200&section=header&text=Meghana%20Guthi&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20Researcher%20%7C%20Builder&descAlignY=55&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7B2CBF&height=200&section=header&text=Meghana%20Guthi&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20Researcher%20%7C%20Full%20Stack%20Explorer%20%7C%20Builder&descAlignY=55&descAlign=50"/>
 </div>
 
 <p align="center">
@@ -83,14 +83,6 @@ meghana = {
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=megha-gbs&show_icons=true&theme=midnight-purple&hide_border=true" height="165"/>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=megha-gbs&layout=compact&theme=midnight-purple&hide_border=true" height="165"/>
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=megha-gbs&theme=midnight-purple&hide_border=true"/>
 </p>
 
 ---
