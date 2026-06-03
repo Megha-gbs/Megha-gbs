@@ -1,25 +1,57 @@
-<h1 align="center">
-  Hi 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/>
-  I'm Meghana Guthi
-</h1>
-<h3 align="center">Passionate about Full Stack Development, Data Analysis, Computational Research & Real-World Problem Solving</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7B2CBF&height=200&section=header&text=Meghana%20Guthi&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20Researcher%20%7C%20Builder&descAlignY=55&descAlign=50"/>
+</div>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=megha-gbs&label=Profile%20views&color=7B2CBF&style=flat" />
+  <img src="https://img.shields.io/github/followers/megha-gbs?label=Followers&style=flat&color=7B2CBF"/>
 </p>
 
 ---
 
-## 🚀 About Me
-- 🔭 Working on **Power Consumption Analysis, Real-Time Monitoring Systems & Full Stack Projects**
-- 🌱 Currently learning **Advanced Java, DSA, Spring Boot & Machine Learning**
-- 💬 Ask me about **Core Java, Data Analysis, Spring Boot, HTML, CSS, JavaScript**
-- 📫 Reach me at **meghanaguthi0303@gmail.com**
-- ⚡ Fun fact: *I love turning real-world problems into tech solutions*
+## 🧠 Who Am I?
+
+```python
+meghana = {
+    "currently"  : "B.Tech CSE @ Mohan Babu University (CGPA: 9.6)",
+    "working_on" : "Power Consumption Analysis & Real-Time Monitoring Dashboard",
+    "learning"   : ["Advanced Java", "DSA", "Machine Learning"],
+    "ask_me"     : ["Core Java", "Data Analysis", "HTML", "CSS", "JavaScript"],
+    "research"   : "Energy datasets, computational modeling, IoT systems",
+    "fun_fact"   : "I love turning real-world problems into tech solutions ⚡"
+}
+```
+
+---
+
+## 🔬 Research Highlight
+
+> **Beyond the Plug** — Power Consumption Analysis of Institutional Buildings
+>
+> Analyzed **120,000+ kWh/year** energy dataset across lighting, HVAC, computing & IoT devices.
+> Built a Java-based system to compute load factors, tariff costs & peak demand patterns.
+> 🔧 Currently extending into a **web-based real-time monitoring dashboard**
+
+---
+
+## 🏆 Achievements
+
+- 🥈 **2nd Place** — Project Expo, Technovation 2K25, KSRM College of Engineering
+- 👩‍💻 **Co-Founder** — TECH FUSION TRACK, CETA Club
+- 🚀 **Team Lead** — XHORIZON 24-Hour Hackathon (HackWithIndia)
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,html,css,js,mysql,git,spring,cpp,c,arduino,oracle&theme=dark"/>
+</p>
 
 ---
 
 ## 🤝 Connect With Me
+
 <p align="center">
 <a href="https://www.linkedin.com/in/meghana-guthi/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-7B2CBF?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -39,24 +71,30 @@
 <a href="https://www.hackerrank.com/meghana_guthi" target="_blank">
   <img src="https://img.shields.io/badge/HackerRank-7B2CBF?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
-</p>
-
-## 🛠️ Languages & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,html,css,js,mysql,python,git,cpp,c,arduino,oracle&theme=dark" />
+<a href="mailto:meghanaguthi0303@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-7B2CBF?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 </p>
 
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=megha-gbs&show_icons=true&theme=midnight-purple" height="165"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=megha-gbs&layout=compact&theme=midnight-purple" height="165"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=megha-gbs&show_icons=true&theme=midnight-purple&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=megha-gbs&layout=compact&theme=midnight-purple&hide_border=true" height="165"/>
 </p>
 
 ---
 
 ## 🔥 GitHub Streak
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=megha-gbs&show_icons=true&theme=midnight-purple&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=megha-gbs&theme=midnight-purple&hide_border=true"/>
 </p>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7B2CBF&height=100&section=footer"/>
+</div>
